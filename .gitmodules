@@ -1,0 +1,3 @@
+[submodule "temporal-ensembling"]
+	path = temporal-ensembling
+	url = https://github.com/ferretj/temporal-ensembling
