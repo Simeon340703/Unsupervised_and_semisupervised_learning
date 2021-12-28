@@ -4,3 +4,6 @@
 [submodule "awesome-self-supervised-learning"]
 	path = awesome-self-supervised-learning
 	url = https://github.com/jason718/awesome-self-supervised-learning
+[submodule "SSL4MIS"]
+	path = SSL4MIS
+	url = https://github.com/HiLab-git/SSL4MIS
