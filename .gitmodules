@@ -1,3 +1,6 @@
 [submodule "temporal-ensembling"]
 	path = temporal-ensembling
 	url = https://github.com/ferretj/temporal-ensembling
+[submodule "awesome-self-supervised-learning"]
+	path = awesome-self-supervised-learning
+	url = https://github.com/jason718/awesome-self-supervised-learning
