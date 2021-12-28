@@ -22,3 +22,6 @@
 [submodule "CCT"]
 	path = CCT
 	url = https://github.com/yassouali/CCT
+[submodule "ssl_detection"]
+	path = ssl_detection
+	url = https://github.com/google-research/ssl_detection
