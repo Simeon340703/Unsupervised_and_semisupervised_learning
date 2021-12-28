@@ -19,3 +19,6 @@
 [submodule "awesome-semi-supervised-learning"]
 	path = awesome-semi-supervised-learning
 	url = https://github.com/yassouali/awesome-semi-supervised-learning
+[submodule "CCT"]
+	path = CCT
+	url = https://github.com/yassouali/CCT
