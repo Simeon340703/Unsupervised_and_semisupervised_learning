@@ -25,3 +25,6 @@
 [submodule "ssl_detection"]
 	path = ssl_detection
 	url = https://github.com/google-research/ssl_detection
+[submodule "mean-teacher"]
+	path = mean-teacher
+	url = https://github.com/CuriousAI/mean-teacher
