@@ -28,3 +28,6 @@
 [submodule "mean-teacher"]
 	path = mean-teacher
 	url = https://github.com/CuriousAI/mean-teacher
+[submodule "MixMatch-pytorch"]
+	path = MixMatch-pytorch
+	url = https://github.com/YU1ut/MixMatch-pytorch
