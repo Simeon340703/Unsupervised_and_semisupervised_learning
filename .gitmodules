@@ -16,3 +16,6 @@
 [submodule "unbiased-teacher"]
 	path = unbiased-teacher
 	url = https://github.com/facebookresearch/unbiased-teacher
+[submodule "awesome-semi-supervised-learning"]
+	path = awesome-semi-supervised-learning
+	url = https://github.com/yassouali/awesome-semi-supervised-learning
