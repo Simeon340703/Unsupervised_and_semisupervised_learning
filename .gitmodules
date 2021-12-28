@@ -7,3 +7,6 @@
 [submodule "SSL4MIS"]
 	path = SSL4MIS
 	url = https://github.com/HiLab-git/SSL4MIS
+[submodule "FixMatch-pytorch"]
+	path = FixMatch-pytorch
+	url = https://github.com/kekmodel/FixMatch-pytorch
