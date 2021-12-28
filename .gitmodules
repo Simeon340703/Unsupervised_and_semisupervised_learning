@@ -13,3 +13,6 @@
 [submodule "sess"]
 	path = sess
 	url = https://github.com/Na-Z/sess
+[submodule "unbiased-teacher"]
+	path = unbiased-teacher
+	url = https://github.com/facebookresearch/unbiased-teacher
