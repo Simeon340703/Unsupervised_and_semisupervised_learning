@@ -10,3 +10,6 @@
 [submodule "FixMatch-pytorch"]
 	path = FixMatch-pytorch
 	url = https://github.com/kekmodel/FixMatch-pytorch
+[submodule "sess"]
+	path = sess
+	url = https://github.com/Na-Z/sess
