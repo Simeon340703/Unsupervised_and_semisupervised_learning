@@ -31,3 +31,6 @@
 [submodule "MixMatch-pytorch"]
 	path = MixMatch-pytorch
 	url = https://github.com/YU1ut/MixMatch-pytorch
+[submodule "ISD-SSD"]
+	path = ISD-SSD
+	url = https://github.com/soo89/ISD-SSD
