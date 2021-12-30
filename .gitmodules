@@ -37,3 +37,6 @@
 [submodule "Curriculum-Labeling"]
 	path = Curriculum-Labeling
 	url = https://github.com/uvavision/Curriculum-Labeling
+[submodule "SoftTeacher"]
+	path = SoftTeacher
+	url = https://github.com/microsoft/SoftTeacher
