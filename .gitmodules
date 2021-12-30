@@ -34,3 +34,6 @@
 [submodule "ISD-SSD"]
 	path = ISD-SSD
 	url = https://github.com/soo89/ISD-SSD
+[submodule "Curriculum-Labeling"]
+	path = Curriculum-Labeling
+	url = https://github.com/uvavision/Curriculum-Labeling
